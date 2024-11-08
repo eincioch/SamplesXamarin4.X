@@ -8,7 +8,7 @@
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
     <PackageReference Include="ReactiveUI" Version="9.3.5" />
     <PackageReference Include="ReactiveUI.XamForms" Version="9.3.5" />
-    <PackageReference Include="Refit" Version="4.6.58" />
+    <PackageReference Include="Refit" Version="7.2.22" />
     <PackageReference Include="Xamarin.Essentials" Version="0.10.0-preview" />
   </ItemGroup>
 
